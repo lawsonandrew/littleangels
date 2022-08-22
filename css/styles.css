@@ -20,7 +20,7 @@ body {
 h1 {
   color: #4AB19A;
   font-family: 'Sacramento', cursive;
-  font-size: 5.625rem;
+  font-size: 5.625em;
   font-weight: 500;
   line-height: 1.1;
   margin: 70px auto 0 auto;
@@ -29,7 +29,7 @@ h1 {
 h2 {
   color: #4AB19A;
   font-family: 'Montserrat',sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.5em;
   font-weight: normal;
 }
 
@@ -62,8 +62,8 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: -8rem;
-  bottom: 2rem;
+  left: -8em;
+  bottom: 2em;
   width: 150px;
   margin: 0;
 }
@@ -79,7 +79,7 @@ p {
   -moz-border-radius: 8;
   border-radius: 8px;
   color: #ffffff;
-  font-size: 1.25rem;
+  font-size: 1.25em;
   padding: 10px 20px;
   text-decoration: none;
 }
@@ -96,7 +96,7 @@ p {
 
 .copyright {
   color: #EAF6F6;
-  font-size: 0.75rem;
+  font-size: 0.75em;
   padding: 20px 0;
 }
 
@@ -185,7 +185,7 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: -8rem;
+  right: -8em;
   top: 0;
   width: 150px;
   margin: 0;
